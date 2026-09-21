@@ -1,4 +1,4 @@
-# 🔢 MNIST Digit Classifier — PyTorch
+# 🔢 MNIST Digit Classifier, PyTorch
 
 A simple feedforward neural network built in PyTorch to classify handwritten digits from the classic [MNIST dataset](http://yann.lecun.com/exdb/mnist/). Built as a learning project to understand the core building blocks of deep learning: layers, activation functions, loss functions, optimizers, and the training loop.
 
